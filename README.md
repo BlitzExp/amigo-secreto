@@ -25,5 +25,5 @@
 <li>Repetir los pasos 1 y 2 hasta que todos los nombres esten en la lista y dar click al botón de "Sortear Amigo", lo que desvelará quien es el amigo secreto</li>
   </ul>
 </br>
+
 ![Resultados:](https://github.com/user-attachments/assets/7eac8159-4b55-4efc-9055-76992a39fd3f)
-  
