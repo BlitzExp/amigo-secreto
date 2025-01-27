@@ -3,10 +3,13 @@
 <p>Como parte del programa Oracle ONE, el primer challenge fue este, el amigo secreto!!</p> 
 </br>
 <p>Esta página web permitirá al usuario colocar los nombres de sus amigos, para que la misma página seleccioné uno que será conocido como "El Amigo Secreto" </p>
+</br>
 
 ![Vista inicial de la página](https://github.com/user-attachments/assets/98bdf3c9-6b50-4f82-852a-4688097a465b)
 
-<p>Para su uso, el usuario debe de seguir los siguientes pasos:</p>
+<h2>Usarla es tan sencillo como descargar el repositorio y abrir el index.html en cualquier navegador web!</h2>
+
+<p>Para interactuar con la página, el usuario debe de seguir los siguientes pasos:</p>
 <ul>
   <li>Introducir el nombre de su amig@ en el cuadro de texto en el centro de la página: </li>
 </ul>
